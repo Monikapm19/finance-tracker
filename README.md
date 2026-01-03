@@ -84,7 +84,6 @@ finance-tracker/
         ├── pages/
         ├── components/
         └── App.js
-```
 
  Pages:
 1. Dashboard - Financial overview
