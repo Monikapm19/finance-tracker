@@ -2,7 +2,7 @@ Personal Finance & Budget Tracker
 
 A full-stack web application to manage personal finances, track expenses, set budgets, and achieve financial goals.
 
-🚀 Features
+🚀 Features--
 
 - Dashboard with financial overview
 - Add and manage transactions (Income/Expense)
@@ -25,7 +25,7 @@ Backend:
 - Node.js
 - Express.js
 - MongoDB
-- Mongoose
+- Mongoose.
 
 Installation:
 
@@ -45,7 +45,6 @@ cd finance-tracker
 bash
 cd backend
 npm install
-
 
 3. Install frontend dependencies
 bash
